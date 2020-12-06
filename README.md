@@ -6,8 +6,6 @@ Generates or appends [ReasonML](https://git.io/reasonml) and [Rescript](https://
 
 ```sh
 npx resgitignore
-# or
-npx idkjs/resgitignore
 ```
 
 Gets you:
@@ -24,7 +22,7 @@ npm-debug.log
 __tests__
 ```
 
-![image](./attributes.png)
+![image](./resgitignore.png)
 
 
 See also [bsconfig.json](https://git.io/bsconfig.json)
