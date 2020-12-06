@@ -13,11 +13,15 @@ npx idkjs/resgitignore
 Gets you:
 
 ```sh
-"# Tell github that .re and .rei files are Reason, sometimes recognized as C/C++"
-*.re linguist-language=Reason 
-*.rei linguist-language=Reason
-*.res linguist-language=ReScript
-*.resi linguist-language=ReScript
+# Tell github to ignore rescript/bucklescript files
+.DS_Store
+.merlin
+.bsb.lock
+npm-debug.log
+/lib/bs/
+/node_modules/
+/bundleOutput/
+__tests__
 ```
 
 ![image](./attributes.png)
