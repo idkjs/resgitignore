@@ -25,7 +25,11 @@ __tests__
 ![image](./resgitignore.png)
 
 
-See also [bsconfig.json](https://git.io/bsconfig.json)
+## See also
+
+[bsconfig.json](https://git.io/bsconfig.json)
+
+[resattributes](https://github.com/idkjs/resattributes)
 
 [mlxre](https://github.com/idkjs/mlxre)
 
